@@ -1,0 +1,201 @@
+movie_genre,movie_rating,movie_title,movie_year
+Action,8.5 / 10,Avengers: Infinity War,2018
+Adventure,7.3 / 10,Black Panther,2018
+Action,7.7 / 10,Deadpool 2,2018
+Adventure,7.9 / 10,Thor: Ragnarok,2017
+Action,7.8 / 10,Big Hero 6,2014
+Adventure,7.5 / 10,Doctor Strange,2016
+Action,6.1 / 10,Rampage,2018
+Adventure,7.9 / 10,Star Wars: Episode VII - The Force Awakens,2015
+Action,6.7 / 10,Venom,2018
+Adventure,7.4 / 10,Spider-Man: Homecoming,2017
+Action,6.5 / 10,The Hunger Games: Mockingjay - Part 2,2015
+Adventure,7.6 / 10,Moana,2016
+Action,8.5 / 10,Avengers: Endgame,2019
+Adventure,7.6 / 10,Guardians of the Galaxy Vol. 2,2017
+Action,8 / 10,The Revenant,2015
+Adventure,6.9 / 10,Jumanji: Welcome to the Jungle,2017
+Action,6.3 / 10,Tomb Raider,2018
+Sci-Fi,6.9 / 10,Captain Marvel,2019
+Action,7.1 / 10,Ant-Man and the Wasp,2018
+Adventure,7.5 / 10,Ready Player One,2018
+Action,7.3 / 10,Fantastic Beasts and Where to Find Them,2016
+Adventure,6.8 / 10,Kingsman: The Golden Circle,2017
+Action,8 / 10,Deadpool,2016
+Adventure,8.1 / 10,Logan,2017
+Action,6 / 10,Suicide Squad,2016
+Adventure,7.5 / 10,How to Train Your Dragon: The Hidden World,2019
+Action,8.6 / 10,Interstellar,2014
+Drama,8.4 / 10,Spider-Man: Into the Spider-Verse,2018
+Action,7.8 / 10,Rogue One: A Star Wars Story,2016
+Adventure,7.2 / 10,Beauty and the Beast,2017
+Action,6.2 / 10,Jurassic World: Fallen Kingdom,2018
+Adventure,6.7 / 10,The Fate of the Furious,2017
+Action,7.7 / 10,Incredibles 2,2018
+Adventure,7.4 / 10,Wonder Woman,2017
+Action,7.6 / 10,Spider-Man: Far from Home,2019
+Adventure,7 / 10,Aquaman,2018
+Action,5.2 / 10,Transformers: The Last Knight,2017
+Adventure,6.4 / 10,Justice League,2017
+Action,5.8 / 10,Skyscraper,2018
+Family,7.4 / 10,War for the Planet of the Apes,2017
+Action,7.6 / 10,Fury,2014
+Drama,5.3 / 10,The Nun,2018
+Horror,6.9 / 10,Annihilation,2018
+Mystery,5.3 / 10,Geostorm,2017
+Adventure,7.1 / 10,Allied,2016
+Drama,7.9 / 10,Iron Man,2008
+Action,6.2 / 10,Why Him?,2016
+Sci-Fi,7.3 / 10,Ant-Man,2015
+Action,6.9 / 10,Us,2019
+Drama,6.8 / 10,Spectre,2015
+Action,5.7 / 10,Insidious: The Last Key,2018
+Adventure,6.6 / 10,The Amazing Spider-Man 2,2014
+Action,6.7 / 10,The Lego Movie 2: The Second Part,2019
+Comedy,7.3 / 10,American Sniper,2014
+Action,7.4 / 10,Patriots Day,2016
+Adventure,6.3 / 10,Horrible Bosses 2,2014
+Horror,6.6 / 10,Jason Bourne,2016
+Mystery,6.5 / 10,The Secret Life of Pets 2,2019
+Action,6.4 / 10,Lucy,2014
+Adventure,5.6 / 10,The Dark Tower,2017
+Action,7 / 10,The Foreigner,2017
+Crime,6.7 / 10,Glass,2019
+Drama,7.4 / 10,John Wick,2014
+Action,7 / 10,Den of Thieves,2018
+Sci-Fi,5.2 / 10,xXx: Return of Xander Cage,2017
+Action,7.4 / 10,The Hobbit: The Battle of the Five Armies,2014
+Crime,6.7 / 10,King Arthur: Legend of the Sword,2017
+Action,8 / 10,The Imitation Game,2014
+Crime,5.7 / 10,The Meg,2018
+Action,7.5 / 10,A Quiet Place,2018
+Adventure,7.7 / 10,A Star Is Born,2018
+Adventure,6.3 / 10,Ghost in the Shell,2017
+Action,6.9 / 10,Solo: A Star Wars Story,2018
+Action,8 / 10,The Avengers,2012
+Biography,6.1 / 10,Mile 22,2018
+Adventure,6.6 / 10,Smallfoot,2018
+Drama,7.6 / 10,The Greatest Showman,2017
+Action,8.1 / 10,Hacksaw Ridge,2016
+Action,8.1 / 10,Gone Girl,2014
+Action,8 / 10,Blade Runner 2049,2017
+Music,7.5 / 10,The Hunger Games: Catching Fire,2013
+Horror,8 / 10,Bohemian Rhapsody,2018
+Action,7.6 / 10,Creed,2015
+Crime,6.9 / 10,Captain America: The First Avenger,2011
+Action,6.4 / 10,Alien: Covenant,2017
+Action,8 / 10,Guardians of the Galaxy,2014
+Action,7.4 / 10,Sully,2016
+Drama,6.8 / 10,Storks,2016
+Action,5.3 / 10,Jupiter Ascending,2015
+Adventure,7.2 / 10,Iron Man 3,2013
+Drama,5.4 / 10,The Mummy,2017
+Action,7 / 10,The Lion King,2019
+Adventure,7.2 / 10,Creed II,2018
+Horror,6.6 / 10,Life,2017
+Adventure,7.3 / 10,It,2017
+Action,7.4 / 10,Alita: Battle Angel,2019
+Biography,6.2 / 10,Maze Runner: The Death Cure,2018
+Action,8.1 / 10,Mad Max: Fury Road,2015
+Action,6.6 / 10,Red Sparrow,2018
+Adventure,8 / 10,X-Men: Days of Future Past,2014
+Adventure,6.1 / 10,Godzilla: King of the Monsters,2019
+Animation,7.1 / 10,Star Wars: Episode VIII - The Last Jedi,2017
+Crime,6.3 / 10,Hotel Transylvania 3: Summer Vacation,2018
+Action,6.2 / 10,Inferno,2016
+Sci-Fi,6.2 / 10,Blockers,2018
+Drama,7.7 / 10,Get Out,2017
+Drama,7.8 / 10,Mission: Impossible - Fallout,2018
+Action,7.1 / 10,Aladdin,2019
+Sci-Fi,4.5 / 10,Fifty Shades Freed,2018
+Action,6.7 / 10,Miss Peregrine's Home for Peculiar Children,2016
+Biography,7.2 / 10,The Equalizer,2014
+Drama,5.4 / 10,The Predator,2018
+Action,6.9 / 10,Thor: The Dark World,2013
+Adventure,6.7 / 10,Cars 3,2017
+Adventure,6.6 / 10,The Hunger Games: Mockingjay - Part 1,2014
+Adventure,7.2 / 10,Furious 7,2015
+Sport,5.8 / 10,Underworld: Blood Wars,2016
+Horror,7.3 / 10,Snowden,2016
+Adventure,7.7 / 10,Ex Machina,2014
+Action,6.5 / 10,Fast & Furious Presents: Hobbs & Shaw,2019
+Adventure,7 / 10,Passengers,2016
+Drama,6.6 / 10,Fantastic Beasts: The Crimes of Grindelwald,2018
+Action,6.5 / 10,Trolls,2016
+Adventure,7.7 / 10,Birdman or,2014
+Action,7.7 / 10,Captain America: The Winter Soldier,2014
+Adventure,5.8 / 10,Dark Phoenix,2019
+Animation,7.6 / 10,Baby Driver,2017
+Sci-Fi,6.3 / 10,Dumbo,2019
+Comedy,6.6 / 10,12 Strong,2018
+Adventure,6.3 / 10,The Boss Baby,2017
+Adventure,6.6 / 10,Pirates of the Caribbean: Dead Men Tell No Tales,2017
+Romance,6.6 / 10,Kong: Skull Island,2017
+Action,4.1 / 10,Fifty Shades of Grey,2015
+Action,6.3 / 10,Escape Room,2019
+Adventure,7.3 / 10,The Shape of Water,2017
+Action,7.1 / 10,Sicario: Day of the Soldado,2018
+Adventure,6.7 / 10,Alpha,2018
+Action,5.5 / 10,Resident Evil: The Final Chapter,2016
+Horror,6.9 / 10,Cinderella,2015
+Comedy,7.9 / 10,Arrival,2016
+Action,7.9 / 10,Dunkirk,2017
+Adventure,5.7 / 10,Assassin's Creed,2016
+Action,6.9 / 10,The Magnificent Seven,2016
+Action,7.6 / 10,John Wick: Chapter 3 - Parabellum,2019
+Adventure,7.1 / 10,Deepwater Horizon,2016
+Animation,8.2 / 10,The Wolf of Wall Street,2013
+Action,8 / 10,The Martian,2015
+Adventure,7.1 / 10,Sing,2016
+Drama,5.6 / 10,Pacific Rim: Uprising,2018
+Action,4.6 / 10,Fifty Shades Darker,2017
+Adventure,5.9 / 10,The Great Wall,2016
+Adventure,6.9 / 10,Game Night,2018
+Adventure,7.3 / 10,First Man,2018
+Action,7.8 / 10,Captain America: Civil War,2016
+Adventure,7.1 / 10,American Made,2017
+Action,5.6 / 10,Men in Black: International,2019
+Biography,9 / 10,The Dark Knight,2008
+Adventure,5.5 / 10,Baywatch,2017
+Adventure,7.1 / 10,Shazam!,2019
+Family,6.2 / 10,Johnny English Strikes Again,2018
+Action,6.1 / 10,Jack Reacher: Never Go Back,2016
+Action,6.6 / 10,Home,2015
+Adventure,6.8 / 10,Bumblebee,2018
+Adventure,7 / 10,Thor,2011
+Family,8.5 / 10,The Lion King,1994
+Animation,7.5 / 10,John Wick: Chapter 2,2017
+Adventure,6.1 / 10,Mortal Engines,2018
+Action,7.3 / 10,The Accountant,2016
+Action,7.1 / 10,Ralph Breaks the Internet,2018
+Crime,7.9 / 10,Toy Story 4,2019
+Action,7.5 / 10,Frozen,2013
+Action,6.7 / 10,The Equalizer 2,2018
+Adventure,7.3 / 10,Split,2016
+Drama,6.2 / 10,Insurgent,2015
+Action,6.3 / 10,Despicable Me 3,2017
+Adventure,7.3 / 10,Avengers: Age of Ultron,2015
+Drama,5.2 / 10,The 5th Wave,2016
+Drama,7.7 / 10,Kingsman: The Secret Service,2014
+Mystery,8.4 / 10,Coco,2017
+Adventure,6.2 / 10,Ocean's Eight,2018
+Action,7.3 / 10,The Lego Batman Movie,2017
+Adventure,6.7 / 10,Divergent,2014
+Action,6.6 / 10,The Lost City of Z,2016
+Adventure,6.5 / 10,The Girl on the Train,2016
+Action,6 / 10,Exodus: Gods and Kings,2014
+Adventure,6.2 / 10,American Assassin,2017
+Action,6.3 / 10,Dr. Seuss' The Grinch,2018
+Crime,7 / 10,Iron Man 2,2010
+Action,5.1 / 10,The First Purge,2018
+Adventure,6.3 / 10,The Commuter,2018
+Action,6.5 / 10,Annabelle: Creation,2017
+Thriller,7.5 / 10,Upgrade,2018
+Animation,3.8 / 10,Escape Plan 2: Hades,2018
+Comedy,6.5 / 10,Tag,2018
+Action,7.7 / 10,The Theory of Everything,2014
+Adventure,6.3 / 10,Maze Runner: The Scorch Trials,2015
+Action,7.6 / 10,Gifted,2017
+Horror,5.6 / 10,Transformers: Age of Extinction,2014
+Action,6.6 / 10,Focus,2015
+Crime,5.9 / 10,Power Rangers,2017
